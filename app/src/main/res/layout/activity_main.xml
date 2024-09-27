@@ -6,14 +6,14 @@
     android:background="@color/golden_yellow"
     android:padding="0dp">
 
-    <!-- Header Container with royal blue background -->
+    <!-- Header Container -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/royal_blue"
         android:padding="16dp">
 
-        <!-- Header TextView (aligned to the start/left) -->
+        <!-- Header TextView -->
         <TextView
             android:id="@+id/header"
             android:layout_width="wrap_content"
@@ -36,7 +36,7 @@
     android:backgroundTint="@color/royal_blue"
     android:padding="12dp"/>
 
-    <!-- Use weights to center the counter and push the increment button to the bottom -->
+    <!--  weights to center the counter and push the increment button to the bottom -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
