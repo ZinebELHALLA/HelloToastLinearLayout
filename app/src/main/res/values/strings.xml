@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloToast</string>
+    <string name="count_initial_value">0</string>
+    <string name="show_toast">TOAST</string>
+    <string name="increment">COUNT</string>
+    <string name="header_text">Hello Toast</string>
+
+
+
+</resources>
